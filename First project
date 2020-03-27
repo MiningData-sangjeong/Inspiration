@@ -31,7 +31,7 @@ while True:
         while (p-1)*(q-1) % e == 0:
             #print(e) #테스트용
             e += 1
-    
+    #미쳤습니까 휴먼?
         #공개키 생성
         print("공개키는 (" + str(n) + "(n),"  + str(e) + "(e)) 입니다.")
     
